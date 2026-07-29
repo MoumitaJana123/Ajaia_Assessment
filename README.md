@@ -115,7 +115,7 @@ Ajia_Assessment/
 ## 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/MoumitaJana123
 ```
 
 ```bash
@@ -248,23 +248,15 @@ The application includes basic validation such as:
 **Application URL**
 
 ```
-YOUR_RENDER_URL
-```
-
-Example:
-
-```
 https://ajia-assessment.onrender.com
 ```
-
----
 
 # Repository
 
 GitHub Repository
 
 ```
-YOUR_GITHUB_REPOSITORY_URL
+https://github.com/MoumitaJana123/Ajaia_Assessment
 ```
 
 ---
@@ -295,13 +287,6 @@ This project was created solely for the **Ajaia AI-Native Full Stack Developer A
 # Author
 
 **Moumita Jana**
-
-GitHub
-
-```
-YOUR_GITHUB_REPOSITORY_URL
-```
-
 
 ## Architecture Overview
 
